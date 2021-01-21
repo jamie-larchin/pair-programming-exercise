@@ -4,13 +4,12 @@ Today we will be pair programming to build a Giphy search application.
 
 ## Wireframe mockup
 
-https://projects.invisionapp.com/freehand/document/JUPXiTrJv
+See wireframe.png
 
 ## Giphy API Endpoints
 
 Autocomplete: https://developers.giphy.com/docs/api/endpoint#autocomplete (populate dropdown menu suggestions from query)
 Search: https://developers.giphy.com/docs/api/endpoint#search (populate results from search query)
-Trending: https://developers.giphy.com/docs/api/endpoint#trending (populate initial dropdown results)
 
 - Api key is available to be imported from config.ts like so:
   import { giphyApiKey } from "./config.ts
